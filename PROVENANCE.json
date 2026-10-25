@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/kobinkempe/bound.less-kk",
+  "commit": "f92c1d1bc274716c0351591122b41f1502a3a590",
+  "date": "2026-08-26",
+  "entry": "src/Pages/ArcPen.js",
+  "historic_files_sha256": {
+    "src/Pages/ArcPen.js": "8ad82f16be011152280104e5c30ae7eee243397b22da81fd56e85f28296c6a2f",
+    "src/engine/geometry/clipperOutline.js": "f7ed93fe955053a6e0e63cee6bc1c92f027e11972c9ad3a50d2dac77c94186aa",
+    "src/engine/geometry/biarc.js": "08ace1883b830daa8c112496d8dd747cf83b1a30743cd4bb4b5cb1786e2b2b90",
+    "src/engine/geometry/curveOutline.js": "b46fc8c1229b9ab8b2906a2a014ddc1917b7051bfc5d41b43a4eb45be2f78835"
+  },
+  "portfolio_adaptations": [
+    "Minimal React 17 entry point and esbuild static build; no original product auth, cloud, storage, or app shell.",
+    "Narrow screens stack the canvas above scrollable controls; synthetic presets fit the available canvas. Geometry algorithms are unchanged."
+  ]
+}
