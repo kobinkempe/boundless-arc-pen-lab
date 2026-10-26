@@ -17,7 +17,7 @@ It was built with AI assistance as part of [bound.less](https://bound-less-kk.we
 3. Change the split tolerance from never split to a finer value.
 4. Watch the arcs-per-gap count, show joints or samples, and drag sample points to test difficult turns.
 
-![Arc Pen Lab browser screenshot](docs/screenshots/desktop.png)
+![Arc Pen Lab browser screenshot](docs/screenshots/desktop.jpg)
 
 ## Run locally
 
