@@ -10,7 +10,7 @@ It was built with AI assistance as part of [bound.less](https://bound-less-kk.we
 
 ## Try it
 
-[Open the live lab](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/boundless-arc-pen-lab/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/boundless-arc-pen-lab/)
+[Open the live lab](https://kobinkempe.pages.dev/boundless-arc-pen-lab/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/boundless-arc-pen-lab/)
 
 1. Start with fast sweep, hairpin, or tight wiggle, or draw your own stroke.
 2. Switch between ink, centerlines, and difference views.
@@ -37,9 +37,9 @@ This is a centerline experiment, not a perimeter bake or the full infinite canva
 
 ## Source and history
 
-Recovered from [`src/Pages/ArcPen.js` at commit `f92c1d1`](https://github.com/kobinkempe/bound.less-kk/blob/f92c1d1bc274716c0351591122b41f1502a3a590/src/Pages/ArcPen.js) (26 August 2026). The development routes were removed in cleanup commit `f6f1062` on 1 September 2026. The algorithms and their local geometry dependencies come from the same historical revision so later engine changes cannot silently alter this comparison. `PROVENANCE.json` records the original source hashes and the small portfolio adaptations.
+Recovered from [`src/Pages/ArcPen.js` at commit `f92c1d1`](https://github.com/kobinkempe/bound.less-kk/blob/f92c1d1bc274716c0351591122b41f1502a3a590/src/Pages/ArcPen.js) (August 26, 2026). The development routes were removed in cleanup commit `f6f1062` on September 1, 2026. The algorithms and their local geometry dependencies come from the same revision, so later engine changes cannot silently alter this comparison. `PROVENANCE.json` records the original source hashes and the small portfolio adaptations.
 
-This is a historical research instrument. The current application has continued to evolve. No general speedup or production correctness claim follows from one preset or browser timing.
+This lab preserves an earlier version of the code; the current application has continued to evolve. No general speedup or production correctness claim follows from one preset or browser timing.
 
 ## Dependencies
 
