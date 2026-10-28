@@ -10,7 +10,7 @@ It was built with AI assistance as part of [bound.less](https://bound-less-kk.we
 
 ## Try it
 
-[Open the live lab](https://kobinkempe.pages.dev/boundless-arc-pen-lab/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/boundless-arc-pen-lab/)
+[Open the live lab](https://kobinkempe.pages.dev/boundless-arc-pen-lab/) · [See project details](https://kobinkempe.pages.dev/projects/boundless-arc-pen-lab/)
 
 1. Start with fast sweep, hairpin, or tight wiggle, or draw your own stroke.
 2. Switch between ink, centerlines, and difference views.
@@ -34,6 +34,10 @@ Open `http://127.0.0.1:4400`. Drawings and controls exist only in this page’s 
 ## What the experiment can tell you
 
 This is a centerline experiment, not a perimeter bake or the full infinite canvas. Difference pixels are a thresholded visual diagnostic at the current zoom, not a mathematical error bound.
+
+## What it showed
+
+In testing, arcs fitted to within 0.25 units of the original curve felt right to draw. That result led to [Arc Bake Lab](https://github.com/kobinkempe/boundless-arc-bake-lab) and, later, to circular arcs throughout bound.less.
 
 ## Source and history
 
